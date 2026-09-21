@@ -2,6 +2,9 @@
 
 ![Dashboard Page 1](HR_page1.png)
 
+![Dashboard Page 2](HR_page2.png)
+
+
  **📌Project Overview**
  
 The dashboard helps HR teams answer key questions:
