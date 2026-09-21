@@ -1,6 +1,6 @@
 # -HR-Employee-Attrition-
 
-![Dashboard Preview](HR page1.png)
+![HR page1](HR page1.png)
 
  **📌Project Overview**
  
