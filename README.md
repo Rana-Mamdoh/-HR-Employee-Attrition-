@@ -64,7 +64,8 @@ data/: raw dataset (CSV) used for the analysis
 
 **📊Data Source**
 
-IBM HR Analytics Employee Attrition & Performance (Kaggle). This is a fictional dataset created by IBM data scientists.
+IBM HR Analytics Employee Attrition & Performance (Kaggle). 
+This is a fictional dataset created by IBM data scientists.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
