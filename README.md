@@ -1,5 +1,6 @@
 # -HR-Employee-Attrition-
- 📌 **Project Overview**
+ **📌Project Overview**
+
 The dashboard helps HR teams answer key questions:
 
 -What is the overall employee attrition rate?
@@ -12,7 +13,7 @@ The dashboard helps HR teams answer key questions:
 
 ---------------------------------------------------------------------------------------------------------------
 
-🔍  Key Insights
+**🔍Key Insights**
 
 Calculated from the full dataset, with no filters applied.
 
@@ -34,7 +35,7 @@ Calculated from the full dataset, with no filters applied.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
  
-🧠 -Key Lesson Learned: Rate vs. Count-
+**🧠Key Lesson Learned: Rate vs. Count**
 
 -A count of leavers and an attrition rate answer different questions.
 
@@ -47,7 +48,7 @@ Calculated from the full dataset, with no filters applied.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- 📂 -Dataset-
+ **📂Dataset**
  
 HR_Attrition_Dashboard.pbix: the full interactive Power BI dashboard
 images/: dashboard screenshots
@@ -55,12 +56,12 @@ data/: raw dataset (CSV) used for the analysis
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 -Data Source-
+**📊Data Source**
 
 IBM HR Analytics Employee Attrition & Performance (Kaggle). This is a fictional dataset created by IBM data scientists.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👩‍💻 Author
+**👩‍💻Author**
 
 Rana Mamdoh 
