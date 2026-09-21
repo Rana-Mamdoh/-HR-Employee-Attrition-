@@ -57,7 +57,9 @@ Calculated from the full dataset, with no filters applied.
  **📂Dataset**
  
 HR_Attrition_Dashboard.pbix: the full interactive Power BI dashboard
+
 images/: dashboard screenshots
+
 data/: raw dataset (CSV) used for the analysis
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -65,6 +67,7 @@ data/: raw dataset (CSV) used for the analysis
 **📊Data Source**
 
 IBM HR Analytics Employee Attrition & Performance (Kaggle). 
+
 This is a fictional dataset created by IBM data scientists.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
