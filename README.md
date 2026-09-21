@@ -12,7 +12,7 @@ The dashboard helps HR teams answer key questions:
 
 ---------------------------------------------------------------------------------------------------------------
 
-🔍 -Key Insights-
+🔍 # Key Insights
 
 Calculated from the full dataset, with no filters applied.
 
