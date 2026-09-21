@@ -1,6 +1,9 @@
 # -HR-Employee-Attrition-
- **📌Project Overview**
 
+![Dashboard Preview](HR page1.png)
+
+ **📌Project Overview**
+ 
 The dashboard helps HR teams answer key questions:
 
 -What is the overall employee attrition rate?
