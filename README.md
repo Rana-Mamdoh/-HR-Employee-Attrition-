@@ -10,12 +10,19 @@
 The dashboard helps HR teams answer key questions:
 
 -What is the overall employee attrition rate?
+
 -Which departments and job roles have the highest turnover?
+
 -Does working overtime affect attrition?
+
 -Does monthly income influence whether employees stay or leave?
+
 -Does work-life balance affect attrition?
+
 -Which age groups, marital statuses, and genders are most likely to leave?
+
 -Does distance from home or years at the company make a difference?
+
 
 ---------------------------------------------------------------------------------------------------------------
 
